@@ -1,0 +1,10 @@
+language: python
+
+python:
+  - "3.11" 
+
+install:
+  - echo "No dependencies to install."
+
+script:
+  - python hello_world.py
